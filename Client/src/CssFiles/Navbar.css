@@ -1,0 +1,62 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 100px;
+    background-color: #A6E3E9;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5em;
+    color: #111;
+  }
+  
+  .navbar-links {
+    display: flex;
+    gap: 15px;
+    
+  }
+  
+  .navbar-links a {
+    color: #111;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-weight: 600;
+  }
+  
+  .navbar-links a:hover {
+    background-color: lightblue;
+  }
+  
+  .navbar-links a.active {
+   color: darkblue;
+   
+  }
+  
+  .logout-button {
+    background: none;
+    border: none;
+    
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 1.5;
+    font-weight: 600;
+  }
+  
+  .logout-button:hover {
+    color: darkblue;
+  }
+  
+  /* Optionally, you can add an active state if needed */
+  .logout-button:active {
+    color: darkblue;
+  }
+  

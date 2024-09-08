@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.navbar-fixed {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.searchbar-container {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 60px; /* Adjust based on navbar height */
+  background: #fff;
+  z-index: 999;
+  padding: 10px 0;
+}
+
+.table-container {
+  height: calc(100vh - 180px); /* Adjust based on navbar and search bar height */
+  overflow-y: auto;
+}
+
+.table-fixed-header thead th {
+  position: sticky;
+  top: 0px; /* Adjust based on navbar and search bar height */
+  background-color: #A6E3E9;
+  z-index: 998;
+}
+
+.pagination-fixed {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  z-index: 997;
+  
+  padding: 10px 0;
+  display: flex;
+  justify-content: end;
+}
+
+.table-containers {
+  table-layout: fixed; /* Ensures the table layout is fixed */
+  width: 100%;
+}
+
+.table-containers th, .table-containers td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 8px;
+  text-align: center;
+}
+/* .table-containers td {
+  background-color: #F5F7F8;
+} */
+
+.header-section th {
+  font-weight: 600;
+  text-align: center;
+  z-index: 100;
+  
+}
+
+.dialog-content .MuiTextField-root,
+.dialog-content .MuiSelect-root {
+  margin-bottom: 8px;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}

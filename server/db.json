@@ -1,0 +1,598 @@
+{
+  "assets": [
+    {
+      "slno": 2,
+      "productid": "C001",
+      "producttype": "Charger",
+      "productmodel": "HP 65W",
+      "status": "Active",
+      "empid": "E002",
+      "productbrand": "HP",
+      "productserialno": "B001"
+    },
+    {
+      "slno": 6,
+      "productid": "C002",
+      "producttype": "Charger",
+      "productmodel": "Apple 61W USB-C",
+      "status": "Available",
+      "empid": "E006",
+      "productbrand": "Apple",
+      "productserialno": "B002"
+    },
+    {
+      "slno": 10,
+      "productid": "C003",
+      "producttype": "Charger",
+      "productmodel": "Dell 45W USB-C",
+      "status": "Active",
+      "empid": "E010",
+      "productbrand": "Dell",
+      "productserialno": "B003"
+    },
+    {
+      "slno": 14,
+      "productid": "C004",
+      "producttype": "Charger",
+      "productmodel": "Acer 65W",
+      "status": "Available",
+      "empid": "E014",
+      "productbrand": "Acer",
+      "productserialno": "B004"
+    },
+    {
+      "slno": 18,
+      "productid": "C005",
+      "producttype": "Charger",
+      "productmodel": "Asus 65W",
+      "status": "Available",
+      "empid": "E018",
+      "productbrand": "Asus",
+      "productserialno": "B005"
+    },
+    {
+      "slno": 4,
+      "productid": "H001",
+      "producttype": "HeadSet",
+      "productmodel": "Sony WH-1000XM4",
+      "status": "Available",
+      "empid": "E004",
+      "productbrand": "Sony",
+      "productserialno": "D001"
+    },
+    {
+      "slno": 8,
+      "productid": "H002",
+      "producttype": "HeadSet",
+      "productmodel": "Bose QC35 II",
+      "status": "Defective",
+      "empid": "E008",
+      "productbrand": "Bose",
+      "productserialno": "D002"
+    },
+    {
+      "slno": 12,
+      "productid": "H003",
+      "producttype": "HeadSet",
+      "productmodel": "JBL Tune 500",
+      "status": "Available",
+      "empid": "E012",
+      "productbrand": "JBL",
+      "productserialno": "D003"
+    },
+    {
+      "slno": 16,
+      "productid": "H004",
+      "producttype": "HeadSet",
+      "productmodel": "Beats Studio3",
+      "status": "Defective",
+      "empid": "E016",
+      "productbrand": "Beats",
+      "productserialno": "D004"
+    },
+    {
+      "slno": 20,
+      "productid": "H005",
+      "producttype": "HeadSet",
+      "productmodel": "Sennheiser HD 450BT",
+      "status": "Defective",
+      "empid": "E020",
+      "productbrand": "Sennheiser",
+      "productserialno": "D005"
+    },
+    {
+      "slno": 1,
+      "productid": "L001",
+      "producttype": "Laptop",
+      "productmodel": "Dell Inspiron 15",
+      "status": "Active",
+      "empid": "E001",
+      "productbrand": "Dell",
+      "productserialno": "A001"
+    },
+    {
+      "slno": 5,
+      "productid": "L002",
+      "producttype": "Laptop",
+      "productmodel": "MacBook Pro 16",
+      "status": "Active",
+      "empid": "E005",
+      "productbrand": "Apple",
+      "productserialno": "A002"
+    },
+    {
+      "slno": 9,
+      "productid": "L003",
+      "producttype": "Laptop",
+      "productmodel": "Lenovo ThinkPad X1",
+      "status": "Available",
+      "empid": "E009",
+      "productbrand": "Lenovo",
+      "productserialno": "A003"
+    },
+    {
+      "slno": 13,
+      "productid": "L004",
+      "producttype": "Laptop",
+      "productmodel": "HP Spectre x360",
+      "status": "Active",
+      "empid": "E013",
+      "productbrand": "HP",
+      "productserialno": "A004"
+    },
+    {
+      "slno": 17,
+      "productid": "L005",
+      "producttype": "Laptop",
+      "productmodel": "Asus ZenBook 14",
+      "status": "Active",
+      "empid": "E017",
+      "productbrand": "Asus",
+      "productserialno": "A005"
+    },
+    {
+      "slno": 21,
+      "productid": "L011",
+      "producttype": "Laptop",
+      "productmodel": "Alien Wire 45x",
+      "status": "Active",
+      "empid": "E011",
+      "productbrand": "Dell",
+      "productserialno": "A011"
+    },
+    {
+      "slno": 3,
+      "productid": "M001",
+      "producttype": "Mouse",
+      "productmodel": "Logitech MX Master",
+      "status": "Defective",
+      "empid": "E003",
+      "productbrand": "Logitech",
+      "productserialno": "C001"
+    },
+    {
+      "slno": 7,
+      "productid": "M002",
+      "producttype": "Mouse",
+      "productmodel": "Microsoft Arc",
+      "status": "Active",
+      "empid": "E007",
+      "productbrand": "Microsoft",
+      "productserialno": "C002"
+    },
+    {
+      "slno": 11,
+      "productid": "M003",
+      "producttype": "Mouse",
+      "productmodel": "Razer DeathAdder",
+      "status": "Defective",
+      "empid": "E011",
+      "productbrand": "Razer",
+      "productserialno": "C003"
+    },
+    {
+      "slno": 15,
+      "productid": "M004",
+      "producttype": "Mouse",
+      "productmodel": "HP Z3700",
+      "status": "Active",
+      "empid": "E015",
+      "productbrand": "HP",
+      "productserialno": "C004"
+    },
+    {
+      "slno": 19,
+      "productid": "M005",
+      "producttype": "Mouse",
+      "productmodel": "Apple Magic Mouse 2",
+      "status": "Active",
+      "empid": "E019",
+      "productbrand": "Apple",
+      "productserialno": "C005"
+    }
+  ],
+  "employee": [
+    {
+      "empid": "E001",
+      "empname": "Alice Johnson",
+      "empdesignation": "Software Engineer",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E002",
+      "empname": "Bob Smith",
+      "empdesignation": "Data Analyst",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E003",
+      "empname": "Charlie Brown",
+      "empdesignation": "Project Manager",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E004",
+      "empname": "Diana Prince",
+      "empdesignation": "UX Designer",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E005",
+      "empname": "Ethan Hunt",
+      "empdesignation": "DevOps Engineer",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E006",
+      "empname": "Fiona Gallagher",
+      "empdesignation": "Product Manager",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E007",
+      "empname": "George Washington",
+      "empdesignation": "QA Engineer",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E008",
+      "empname": "Hannah Montana",
+      "empdesignation": "Business Analyst",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E009",
+      "empname": "Ian Fleming",
+      "empdesignation": "Technical Writer",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E010",
+      "empname": "Jack Sparrow",
+      "empdesignation": "System Administrator",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E011",
+      "empname": "Karen Walker",
+      "empdesignation": "Marketing Specialist",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E012",
+      "empname": "Liam Neeson",
+      "empdesignation": "Security Specialist",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E013",
+      "empname": "Mia Wallace",
+      "empdesignation": "Graphic Designer",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E014",
+      "empname": "Nina Simone",
+      "empdesignation": "HR Manager",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E015",
+      "empname": "Oscar Wilde",
+      "empdesignation": "Content Strategist",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E016",
+      "empname": "Paul Atreides",
+      "empdesignation": "Financial Analyst",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E017",
+      "empname": "Quentin Tarantino",
+      "empdesignation": "Operations Manager",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E018",
+      "empname": "Rachel Green",
+      "empdesignation": "Customer Support",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E019",
+      "empname": "Steve Rogers",
+      "empdesignation": "Software Architect",
+      "laptoppassword": null,
+      "emailpassword": null
+    },
+    {
+      "empid": "E020",
+      "empname": "Tina Turner",
+      "empdesignation": "Sales Manager",
+      "laptoppassword": null,
+      "emailpassword": null
+    }
+  ],
+  "history": [
+    {
+      "empid": "E001",
+      "productid": "L001",
+      "issuedate": "2023-01-14T18:30:00.000Z",
+      "returndate": "2023-06-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E002",
+      "productid": "C001",
+      "issuedate": "2023-02-19T18:30:00.000Z",
+      "returndate": "2023-07-19T18:30:00.000Z"
+    },
+    {
+      "empid": "E003",
+      "productid": "M001",
+      "issuedate": "2023-03-09T18:30:00.000Z",
+      "returndate": "2023-08-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E004",
+      "productid": "H001",
+      "issuedate": "2023-04-04T18:30:00.000Z",
+      "returndate": "2023-09-04T18:30:00.000Z"
+    },
+    {
+      "empid": "E005",
+      "productid": "L002",
+      "issuedate": "2023-04-30T18:30:00.000Z",
+      "returndate": "2023-09-30T18:30:00.000Z"
+    },
+    {
+      "empid": "E006",
+      "productid": "C002",
+      "issuedate": "2023-06-24T18:30:00.000Z",
+      "returndate": "2023-11-24T18:30:00.000Z"
+    },
+    {
+      "empid": "E007",
+      "productid": "M002",
+      "issuedate": "2023-07-14T18:30:00.000Z",
+      "returndate": "2023-12-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E008",
+      "productid": "H002",
+      "issuedate": "2023-08-04T18:30:00.000Z",
+      "returndate": "2024-01-04T18:30:00.000Z"
+    },
+    {
+      "empid": "E009",
+      "productid": "L003",
+      "issuedate": "2023-09-09T18:30:00.000Z",
+      "returndate": "2024-02-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E010",
+      "productid": "C003",
+      "issuedate": "2023-10-19T18:30:00.000Z",
+      "returndate": "2024-03-19T18:30:00.000Z"
+    },
+    {
+      "empid": "E011",
+      "productid": "M003",
+      "issuedate": "2023-11-14T18:30:00.000Z",
+      "returndate": "2024-04-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E012",
+      "productid": "H003",
+      "issuedate": "2023-11-30T18:30:00.000Z",
+      "returndate": "2024-04-30T18:30:00.000Z"
+    },
+    {
+      "empid": "E013",
+      "productid": "L004",
+      "issuedate": "2024-01-09T18:30:00.000Z",
+      "returndate": "2024-06-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E014",
+      "productid": "C004",
+      "issuedate": "2024-02-14T18:30:00.000Z",
+      "returndate": "2024-07-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E015",
+      "productid": "M004",
+      "issuedate": "2024-03-04T18:30:00.000Z",
+      "returndate": "2024-08-04T18:30:00.000Z"
+    },
+    {
+      "empid": "E016",
+      "productid": "H004",
+      "issuedate": "2024-04-19T18:30:00.000Z",
+      "returndate": "2024-09-19T18:30:00.000Z"
+    },
+    {
+      "empid": "E017",
+      "productid": "L005",
+      "issuedate": "2024-05-09T18:30:00.000Z",
+      "returndate": "2024-10-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E018",
+      "productid": "C005",
+      "issuedate": "2024-05-31T18:30:00.000Z",
+      "returndate": "2024-10-31T18:30:00.000Z"
+    },
+    {
+      "empid": "E019",
+      "productid": "M005",
+      "issuedate": "2024-07-14T18:30:00.000Z",
+      "returndate": "2024-12-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E020",
+      "productid": "H005",
+      "issuedate": "2024-08-19T18:30:00.000Z",
+      "returndate": "2025-01-19T18:30:00.000Z"
+    },
+    {
+      "empid": "E001",
+      "productid": "L001",
+      "issuedate": "2023-01-14T18:30:00.000Z",
+      "returndate": "2023-06-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E002",
+      "productid": "C001",
+      "issuedate": "2023-02-19T18:30:00.000Z",
+      "returndate": "2023-07-19T18:30:00.000Z"
+    },
+    {
+      "empid": "E003",
+      "productid": "M001",
+      "issuedate": "2023-03-09T18:30:00.000Z",
+      "returndate": "2023-08-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E004",
+      "productid": "H001",
+      "issuedate": "2023-04-04T18:30:00.000Z",
+      "returndate": "2023-09-04T18:30:00.000Z"
+    },
+    {
+      "empid": "E005",
+      "productid": "L002",
+      "issuedate": "2023-04-30T18:30:00.000Z",
+      "returndate": "2023-09-30T18:30:00.000Z"
+    },
+    {
+      "empid": "E006",
+      "productid": "C002",
+      "issuedate": "2023-06-24T18:30:00.000Z",
+      "returndate": "2023-11-24T18:30:00.000Z"
+    },
+    {
+      "empid": "E007",
+      "productid": "M002",
+      "issuedate": "2023-07-14T18:30:00.000Z",
+      "returndate": "2023-12-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E008",
+      "productid": "H002",
+      "issuedate": "2023-08-04T18:30:00.000Z",
+      "returndate": "2024-01-04T18:30:00.000Z"
+    },
+    {
+      "empid": "E009",
+      "productid": "L003",
+      "issuedate": "2023-09-09T18:30:00.000Z",
+      "returndate": "2024-02-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E010",
+      "productid": "C003",
+      "issuedate": "2023-10-19T18:30:00.000Z",
+      "returndate": "2024-03-19T18:30:00.000Z"
+    },
+    {
+      "empid": "E011",
+      "productid": "M003",
+      "issuedate": "2023-11-14T18:30:00.000Z",
+      "returndate": "2024-04-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E012",
+      "productid": "H003",
+      "issuedate": "2023-11-30T18:30:00.000Z",
+      "returndate": "2024-04-30T18:30:00.000Z"
+    },
+    {
+      "empid": "E013",
+      "productid": "L004",
+      "issuedate": "2024-01-09T18:30:00.000Z",
+      "returndate": "2024-06-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E014",
+      "productid": "C004",
+      "issuedate": "2024-02-14T18:30:00.000Z",
+      "returndate": "2024-07-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E015",
+      "productid": "M004",
+      "issuedate": "2024-03-04T18:30:00.000Z",
+      "returndate": "2024-08-04T18:30:00.000Z"
+    },
+    {
+      "empid": "E016",
+      "productid": "H004",
+      "issuedate": "2024-04-19T18:30:00.000Z",
+      "returndate": "2024-09-19T18:30:00.000Z"
+    },
+    {
+      "empid": "E017",
+      "productid": "L005",
+      "issuedate": "2024-05-09T18:30:00.000Z",
+      "returndate": "2024-10-09T18:30:00.000Z"
+    },
+    {
+      "empid": "E018",
+      "productid": "C005",
+      "issuedate": "2024-05-31T18:30:00.000Z",
+      "returndate": "2024-10-31T18:30:00.000Z"
+    },
+    {
+      "empid": "E019",
+      "productid": "M005",
+      "issuedate": "2024-07-14T18:30:00.000Z",
+      "returndate": "2024-12-14T18:30:00.000Z"
+    },
+    {
+      "empid": "E020",
+      "productid": "H005",
+      "issuedate": "2024-08-19T18:30:00.000Z",
+      "returndate": "2025-01-19T18:30:00.000Z"
+    }
+  ]
+}
