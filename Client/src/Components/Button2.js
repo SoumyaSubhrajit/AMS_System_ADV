@@ -22,7 +22,7 @@ export default function CardDefault() {
         </Typography>
         <Typography>
           The place is close to Barceloneta Beach and bus stop just 2 min by
-          walk and near to &quot;Naviglio&quot; where you can enjoy the main
+          walk and near to &quot;Naviglio&quot; There you can find many things. Where you can enjoy the main
           night life in Barcelona.
         </Typography>
       </CardBody>
